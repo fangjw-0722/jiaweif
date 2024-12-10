@@ -11,9 +11,11 @@ main:
     url: /#papers
     weight: 11
   - name: Experience
-    url: experience/
+    url: /#experience
     weight: 20
   - name: Projects
-    url: projects/
+    url: /#projects
     weight: 30
-
+  - name: Start-UP
+    url: /#Startup
+    weight: 40
